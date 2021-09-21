@@ -1,0 +1,2 @@
+これはinput.txtの中身です
+HelloWorld!!
